@@ -1,5 +1,5 @@
 # Visit to the link
-https://shubham-singh0109.github.io/DV_Activity_6/
+ https://rohanrajebhosale.github.io/Activity6/
 
 # In-Class Activity: Manipulable View
 
